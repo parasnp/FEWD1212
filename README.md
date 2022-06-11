@@ -13,6 +13,7 @@ Students are required to in corporate the following properties:
 	border-color: #000000;
 
 within .header .headercontent
+
 	border-style: solid;
 	border-width: 5px;
 	border-color: #ededed;
