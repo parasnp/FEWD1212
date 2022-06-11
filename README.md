@@ -10,7 +10,7 @@ background-position: center center;
 background-repeat: no-repeat;
 border-style: solid;
 border-width: 5px;
-border-color: #000000;
+border-color: #000000;.
 
 within .header .headercontent
 border-style: solid;
