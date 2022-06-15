@@ -10,6 +10,7 @@ body
   readius:1em
   top-right-readius:10% and 30%
   width:5px
+  and define a linear gradient of 105 deg with rgba(0,249,255,1) , rgba(51,56,57,1)  at 30% and 90% transparency respectively
 */
 .Background
 {
