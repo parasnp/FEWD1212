@@ -1,0 +1,28 @@
+/*iteration1 using background properties  repeat url and size set the given image home as background*/
+body
+{
+  background: url(assets/home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*iteration 2 using border properties  border radius width type and color  create border with the following specification:
+  set the right border as doubled
+  readius:1em
+  top-right-readius:10% and 30%
+  width:5px
+*/
+.Background
+{
+  border: 10px solid black;
+  border-radius: 1em;
+  border-top-right-radius: 10% 30%;
+  border-right-style: dotted;
+  margin:30%;
+  margin-top: 20%;
+  text-align: center;
+  color:white;
+  border-width: 5px;
+  background-image: linear-gradient(105deg, rgba(0,249,255,1) 39%, rgba(51,56,57,1) 90%)
+
+}
+
