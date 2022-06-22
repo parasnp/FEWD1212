@@ -1,5 +1,7 @@
-/*Iteration 1 : Using background properties "url","repeat","size" set the image "Home.jpg" as a non repeating background image covering the entire div.*/
+
 body{
+  /*Iteration 1 : Using background properties "url","repeat","size" set the image "Home.jpg" as a non repeating background image covering the entire div.*/
+  
   background: url(assets/home.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -7,6 +9,7 @@ body{
 .background
 {
   /*Iteration 2: Using Border properties "border" "border-style" "border-radius" define a solid black border with a width of 10px and a radius of 2em for the div.*/
+  
   border: 10px ;
   border-style: solid; 
   border-color:black;
@@ -18,6 +21,7 @@ body{
   border-width: 5px;
   /*Iteration 3: Using the "background-image" property define a linear gradient for the div at 105deg having two colors rgba(0,249,255,1) at 39 percent transparency
     and  rgba(51,56,57,1) at 90 percent transparency.*/
+  
   background-image: linear-gradient(105deg, rgba(0,249,255,1) 39%, rgba(51,56,57,1) 90%)
 
 }
